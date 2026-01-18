@@ -19,7 +19,7 @@ The project focuses on **authentication, backend logic, and server-side renderin
 - 🔒 Secure sessions & cookies
 - 📱 Responsive UI
 
----
+--- 
 
 ## 🛠️ Tech Stack
 
